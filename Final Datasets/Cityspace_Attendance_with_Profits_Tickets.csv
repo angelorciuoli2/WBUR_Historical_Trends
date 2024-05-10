@@ -1,0 +1,315 @@
+Date,Event,Registrations,All_Attendance,Livestream,Room Capacity,Category,Guest_Speaker,in_person,Genres,Total_Profit,Ticket Quantity
+2019-12-17,LFOD x The ARTery: State of New England Hip Hop,190.0,60,0,254,ARTery,No,60,Arts & Culture,0.0,301
+2021-09-23,The ARTery 25,367.0,227,123,254,ARTery,No,104,Entertainment,0.0,1076
+2019-03-28,The ARTery 25,367.0,227,0,254,ARTery,No,227,Entertainment,0.0,1076
+2019-08-23,The ARTery's Massachusetts Favorite of the Tiny Desk: Frances Forever,151.0,129,0,254,ARTery,No,129,Entertainment,958.0,251
+2020-07-30,Black Boston: Building Healthy Communities,402.0,146,0,254,Boston,No,146,Health & Wellness,0.0,23
+2019-09-15,The History of Commonwealth Avenue,294.0,184,0,254,Boston,No,184,History,0.0,549
+2019-05-01,"Boston Brilliance: Crispr scientists Omar Abudayyeh
+ and Jonathan Gootenberg",109.0,63,0,254,Boston,Yes,63,Science,294.0,208
+2019-06-10,Boston Brilliance: Eric Lander,158.0,88,0,254,Boston,Yes,88,Science,453.5,263
+2019-05-21,Boston Brilliance: Walter Willett,91.0,60,0,254,Boston,Yes,60,Health & Wellness,370.0,149
+2019-03-18,Catching Up with Boston Marathon Winner Des Linden,95.0,96,0,254,Boston,Yes,96,Sports,1261.5,170
+2019-09-23,Boston Fashion Week GlamSlam,65.0,62,0,254,Boston,No,62,Fashion,565.0,93
+2023-10-06,Boston Fashion Week GlamSlam 2023,56.0,40,0,254,Boston,No,40,Fashion,790.0,92
+2022-11-04,AGNI at 50: A literary celebration,284.0,226,10,254,Celebration,No,216,Entertainment,1955.0,259
+2021-11-04,A Celebration of Car Talk,423.0,416,200,254,Celebration,No,216,Entertainment,8600.0,515
+2022-10-25,Celebrating 10 Years of Cognoscenti,167.0,124,0,254,Celebration,No,124,Entertainment,0.0,208
+2019-03-12,Celebrating International Women's Day,101.0,69,0,254,Celebration,No,69,Entertainment,1240.5,157
+2022-07-09,Circle Round Book Launch Party,300.0,229,24,254,Circle Round,No,205,Child Entertainment,4245.0,1263
+2023-06-17,Circle Round Book Launch Party,300.0,229,22,254,Circle Round,No,207,Child Entertainment,4245.0,1263
+2022-11-12,Circle Round Book Launch Party II,292.0,250,52,254,Circle Round,No,198,Child Entertainment,1530.0,537
+2023-12-09,Circle Round Live: Holiday Edition,291.0,272,47,254,Circle Round,No,225,Child Entertainment,3935.0,681
+2019-04-02,"Business in the Era of Climate Change: Food, Diet, Climate",126.0,98,0,254,Climate,No,98,Climate,1560.0,181
+2019-03-05,Business in the Era of Climate Change: Open for Business?,108.0,75,0,254,Climate,No,75,Climate,856.5,157
+2019-04-22,Business in the Era of Climate Change: Politics and Business,83.0,47,0,254,Climate,No,47,Climate,964.5,113
+2019-05-07,Business in the Era of Climate Change: Transportation,74.0,45,0,254,Climate,No,45,Climate,835.5,123
+2022-11-21,A conversation on climate action and activism with environmentalist Bill McKibben,226.0,163,62,254,Climate,Yes,101,Climate,1520.0,268
+2019-06-04,Business In The Era Of Climate Change (Energy Transitions),100.0,61,0,254,Climate,No,61,Business,1054.5,158
+2023-04-22,Climate Hope Concert,126.0,69,0,254,Climate,No,69,Climate,845.0,169
+2021-04-22,Climate Resilient Cities: An Earth Day Discussion Of Sea-Level Rise,215.0,113,0,254,Climate,No,113,Climate,0.0,191
+2022-04-21,Environmental justice and the offshore wind revolution,193.0,69,55,254,Climate,No,14,Climate,0.0,220
+2019-05-06,Future of Work,209.0,118,0,254,Climate,No,118,Social Issues,180.0,464
+2022-04-27,Gubernatorial forum on energy and the environment,942.0,494,388,254,Climate,No,106,Climate,0.0,1210
+2023-10-02,How Sustainable Fashion Can Help Save the Planet,94.0,69,0,254,Climate,No,69,Climate,815.0,267
+2020-02-04,Get Educated: Climate,310.0,146,0,254,Climate,No,146,Climate,0.0,513
+2021-12-07,Both/And: Huma Abedin Reflects,123.0,100,38,254,Conversation,No,62,Politics,1265.0,173
+2023-03-26,"""The Best Strangers in the World"": Ari Shapiro on his new memoir",201.0,180,35,254,Conversation,Yes,145,Journalism & Media,4730.0,228
+2019-07-11,Beyond Reasonable Doubt: Darrell Jones,285.0,168,0,254,Conversation,Yes,168,Social Issues,0.0,878
+2020-01-24,"Jeanine Cummins: ""American Dirt""",165.0,102,0,254,Conversation,Yes,102,Literature,1495.0,231
+2019-09-06,A Conversation With Danny Ainge,188.0,156,0,254,Conversation,Yes,156,Sports,1296.0,377
+2023-03-27,A conversation with gun control activist David Hogg on the anniversary of Parkland,94.0,78,9,254,Conversation,Yes,69,Politics,740.0,106
+2019-04-11,A Conversation With Pod Save America Host Jon Favreau,93.0,119,0,254,Conversation,Yes,119,Politics,1540.0,95
+2020-03-04,"Colum McCann In Conversation With Claire Messud: ""Apeirogon""",192.0,154,0,254,Conversation,Yes,154,Literature,2595.0,272
+2019-04-30,Frans de Waal in Conversation With Vicki Croke,170.0,120,0,254,Conversation,Yes,120,Science,1530.0,388
+2022-10-26,I'm Glad My Mom Died: #1 New York Times best-selling author Jennette McCurdy on her new memoir,337.0,308,61,254,Conversation,Yes,247,Literature,6721.0,303
+2023-01-25,Instead We Became Evil: Danish rapper Sleiman discusses his music journey with journalist and historian Dart Adams,60.0,28,7,254,Conversation,Yes,21,Social Issues,85.0,54
+2020-02-24,"Jeff Sharlet: From Netflix's ""The Family"" To ""This Brilliant Darkness""",41.0,33,0,254,Conversation,Yes,33,Journalism & Media,355.0,67
+2019-10-15,John Cameron Mitchell In Conversation With Robin Young,173.0,88,0,254,Conversation,Yes,88,Entertainment,1190.0,265
+2019-06-18,Journeys From Hate To Love: The Secret Life of Muslims,127.0,118,0,254,Conversation,No,118,Social Issues,678.0,235
+2023-03-09,"Little kids, big questions, free advice: A conversation with “Recess Therapy” creator Julian Shapiro-Barnum",122.0,103,7,254,Conversation,Yes,96,Entertainment,745.0,123
+2022-10-24,README.txt: Whistleblower Chelsea Manning tells her story,118.0,100,24,254,Conversation,Yes,76,Social Issues,685.0,95
+2023-04-04,The Longest Race: Olympian Kara Goucher on her new memoir,289.0,240,30,254,Conversation,Yes,210,Literature,2665.0,436
+2022-12-06,The Stolen Year: NPR education correspondent Anya Kamenetz on how the pandemic changed children's lives,75.0,29,28,254,Conversation,Yes,1,Health & Wellness,35.0,72
+2020-03-05,"Tom Fitzgerald and Lorenzo Marquez: ""Legendary Children""",116.0,92,0,254,Conversation,Yes,92,Arts & Culture,1224.5,183
+2019-11-08,Under the Influece of Comics: A Look Back With Paul Karasik,90.0,72,0,254,Conversation,Yes,72,Literature,578.0,137
+2020-02-06,On Point Live,118.0,101,0,254,Conversation,No,101,Journalism & Media,5078.0,212
+2021-09-27,On Point Presents The Prime Effect,145.0,91,73,254,Conversation,No,18,Climate,210.0,153
+2020-09-28,On Point Presents: A Conversation With Jill Lepore,434.0,226,0,254,Conversation,Yes,226,Technology,0.0,385
+2019-09-13,Paul Tough: How College Makes Or Breaks Us,134.0,117,0,254,Conversation,No,117,Health & Wellness,1141.0,352
+2021-10-26,This Is Your Mind On Plants / Pollan,252.0,257,162,254,Conversation,No,95,Science,2237.5,351
+2023-10-12,Every Man for Himself and God Against All: Filmmaker Werner Herzog on his new memoir,285.0,237,42,254,Conversation,Yes,195,Literature,2650.0,373
+2020-09-02,Yaa Gyasi: Transcendent Kingdom,201.0,136,0,254,Conversation,Yes,136,Arts & Culture,0.0,179
+2021-09-30,"Endless Thread If You Can Dream It, You Can Meme It",132.0,106,66,254,Endless Thread,No,40,Arts & Culture,402.5,137
+2019-10-25,Endless Thread Presents: Endless Dread,111.0,95,0,254,Endless Thread,No,95,Entertainment,866.0,190
+2019-07-25,Endless Thread Presents: Infectious,124.0,82,0,254,Endless Thread,No,82,Health & Wellness,400.0,203
+2022-10-28,Endless Thread Presents: Rise of the Bots,109.0,60,0,254,Endless Thread,No,60,Technology,240.0,212
+2023-11-13,Field Trip: Arts and Crafts,86.0,26,0,254,Field Trip,No,26,Entertainment,0.0,184
+2023-08-28,Field Trip: Game Night,170.0,91,0,254,Field Trip,No,91,Entertainment,0.0,298
+2023-09-29,Field Trip: Running Club,133.0,51,0,254,Field Trip,No,51,Entertainment,0.0,213
+2023-10-23,Field Trip: Speed Friending,84.0,61,0,254,Field Trip,No,61,Entertainment,690.0,81
+2019-05-19,Alon Shaya,112.0,88,0,254,Food,Yes,88,Food & Cuisine,2056.0,230
+2019-05-28,Clover Food Lab Presents Meet the Farmer,187.0,38,0,254,Food,No,38,Food & Cuisine,0.0,324
+2020-06-18,Curated Cuisine Live,64.0,41,0,254,Food,No,41,Food & Cuisine,0.0,55
+2023-05-30,"Curated Cuisine: ""Perfectly Good Food” cookbook authors Margaret and Irene Li",126.0,113,13,254,Food,Yes,100,Food & Cuisine,1025.0,195
+2023-06-05,Curated Cuisine: “Tenderheart” cookbook author Hetty Lui McKinnon,130.0,103,13,254,Food,Yes,90,Food & Cuisine,750.0,214
+2023-12-04,Curated Cuisine: A celebration of Black women and femmes in food with Klancy Miller,143.0,107,0,254,Food,Yes,107,Food & Cuisine,1200.0,584
+2019-09-09,Curated Cuisine: Ana Sortun,254.0,198,0,254,Food,Yes,198,Food & Cuisine,2038.0,458
+2019-03-04,Curated Cuisine: Andy Husbands,133.0,82,0,254,Food,Yes,82,Food & Cuisine,512.0,219
+2022-11-29,Curated Cuisine: Art of the chicken with world-renowned chef Jacques Pépin,258.0,260,0,254,Food,Yes,260,Food & Cuisine,2360.0,376
+2019-11-04,Curated Cuisine: Ayr Muir,105.0,86,0,254,Food,Yes,86,Food & Cuisine,877.0,152
+2023-03-14,"Curated Cuisine: Celebrating Pi Day with ""Pieometry"" author Lauren Ko",181.0,125,36,254,Food,Yes,89,Food & Cuisine,1500.0,200
+2023-01-30,Curated Cuisine: Celebrity chef Tiffani Faison’s Big Heart Hospitality captivates Boston,175.0,158,11,254,Food,Yes,147,Food & Cuisine,1315.0,189
+2022-05-17,Curated Cuisine: Cooking with The Korean Vegan — Joanne Lee Molinaro,234.0,193,30,254,Food,Yes,163,Food & Cuisine,2820.0,348
+2023-09-11,"Curated Cuisine: Culture, community and comfort food from Roxbury to the Seaport with Nia Grace",132.0,73,0,254,Food,Yes,73,Food & Cuisine,1375.0,1087
+2020-02-03,Curated Cuisine: Douglass Williams,141.0,118,0,254,Food,Yes,118,Food & Cuisine,1142.0,261
+2023-02-06,Curated Cuisine: East-West cooking with celebrity chef Ming Tsai,269.0,232,23,254,Food,Yes,209,Food & Cuisine,2090.0,396
+2022-12-05,Curated Cuisine: Fishing in New England with Barton Seaver and Jeremy Sewall,95.0,73,16,254,Food,Yes,57,Food & Cuisine,535.0,123
+2022-03-21,Curated Cuisine: Global Comfort food with Biplaw Rai and Kwasi Kwaa,92.0,62,10,254,Food,Yes,52,Food & Cuisine,485.0,148
+2021-12-09,Curated Cuisine: Holiday baking with James Beard Award winner Dorie Greenspan,247.0,178,70,254,Food,Yes,108,Food & Cuisine,1885.0,378
+2023-08-07,Curated Cuisine: Ice cream social,194.0,161,0,254,Food,No,161,Food & Cuisine,2115.0,656
+2019-06-03,Curated Cuisine: Irene Li,95.0,59,0,254,Food,Yes,59,Food & Cuisine,534.0,255
+2021-10-13,Curated Cuisine: Jacques Pepin,297.0,286,100,254,Food,Yes,186,Food & Cuisine,2535.0,396
+2022-06-27,Curated Cuisine: Jessica B. Harris,114.0,110,27,254,Food,Yes,83,Food & Cuisine,1125.0,200
+2019-04-01,Curated Cuisine: Joanne Chang,206.0,189,0,254,Food,Yes,189,Food & Cuisine,3240.0,356
+2022-09-30,Curated Cuisine: Miyoko Schinner and the vegan cheese revolution,109.0,74,11,254,Food,Yes,63,Food & Cuisine,585.0,130
+2023-07-20,Curated Cuisine: Radio Boston Chef Throwdown: Barbecue,197.0,148,0,254,Food,No,148,Food & Cuisine,1270.0,324
+2023-04-06,Curated Cuisine: Radio Boston presents “Brewed in Mass” beer fest,155.0,110,0,254,Food,No,110,Food & Cuisine,1245.0,302
+2023-10-18,Curated Cuisine: Tawakal Halal Cafe’s Yahya Noor brings Somali culture and food to the forefront in Boston,89.0,67,0,254,Food,Yes,67,Food & Cuisine,675.0,91
+2023-11-07,Curated Cuisine: The pleasures of eating and reading with New York Times book critic Dwight Garner,151.0,96,0,254,Food,Yes,96,Food & Cuisine,800.0,211
+2019-10-07,Curated Cuisine: Tiffani Faison,165.0,141,0,254,Food,Yes,141,Food & Cuisine,1390.0,337
+2022-10-03,Curated Cuisine: Wining and dining with The Urban Grape's TJ and Hadley Douglas,54.0,27,5,254,Food,Yes,22,Food & Cuisine,235.0,59
+2022-04-06,Curated Cusine: Alice Waters,180.0,136,134,254,Food,Yes,2,Food & Cuisine,720.0,192
+2022-01-26,Curated Cusine: Jason Bond,89.0,65,49,254,Food,Yes,16,Food & Cuisine,455.0,79
+2021-11-09,Curated Cusine: Tracy Chang,56.0,34,34,254,Food,Yes,0,Food & Cuisine,345.0,81
+2022-09-20,Dinners with Ruth: Nina Totenberg on her friendship with Ruth Bader Ginsburg,390.0,306,88,254,Food,Yes,218,Politics,2685.0,567
+2022-06-08,Eat Local: Growing a sustainable food system in New England and your backyard,118.0,101,22,254,Food,No,79,Food & Cuisine,1127.5,196
+2019-11-19,Let's Talk About Food: Thanksgiving Edition,234.0,217,0,254,Food,No,217,Food & Cuisine,2902.5,486
+2023-05-16,A reckoning in restaurants: combatting toxic culture in the food service industry,264.0,124,67,254,Food,No,57,Food & Cuisine,0.0,379
+2023-04-13,An evening with Grammy Award-winning singer-songwriter Rhiannon Giddens,334.0,255,62,254,Guest,Yes,193,Arts & Culture,2510.0,347
+2019-09-12,An Eveing Of Poetry With Nick Flynn,139.0,103,0,254,Guest,Yes,103,Entertainment,640.0,398
+2021-11-10,An Evening With Bob Oakes,249.0,177,83,254,Guest,Yes,94,Journalism & Media,0.0,288
+2019-07-30,Glen Johnson,99.0,61,0,254,Guest,Yes,61,Journalism & Media,450.0,171
+2019-06-26,Ophira Eisenberg,181.0,162,0,254,Guest,Yes,162,Entertainment,3124.0,357
+2019-08-14,Tea Obreht,91.0,43,0,254,Guest,Yes,43,Literature,0.0,198
+2022-09-22,The Makers,237.0,140,0,254,Guest,No,140,Arts & Culture,0.0,411
+2022-04-08,Young Mungo: Douglas Stuart,66.0,59,2,254,Guest,Yes,57,Literature,1035.0,124
+2019-07-19,Alisa Amador,187.0,169,0,254,Guest,Yes,169,Entertainment,3620.0,366
+2019-09-29,Moor Mother,58.0,52,0,254,Guest,Yes,52,Entertainment,720.0,65
+2019-09-26,Robbie Fulks,65.0,58,0,254,Guest,Yes,58,Entertainment,1195.0,96
+2019-10-02,Lizabeth Cohen,58.0,45,0,254,Guest,Yes,45,Politics,529.0,101
+2022-10-06,"The northern lights on demand: Artist Dan Acher bring ""Borealis"" to Cambridge",216.0,40,13,254,Guest,Yes,27,Science,140.0,351
+2021-05-20,Education Now And Then: Projections On Post-COVID Learning,82.0,42,0,254,Health,No,42,Health & Wellness,0.0,73
+2023-10-24,"Foreign Bodies: Simon Schama on the history of pandemics, vaccines, and the health of nations",79.0,51,0,254,Health,Yes,51,Health & Wellness,920.0,110
+2020-03-02,Age Is Not A Medical Condtition: Healthy Aging After 50,136.0,80,0,254,Health,No,80,Health & Wellness,1414.0,178
+2021-10-25,Learning With COVID,111.0,71,65,254,Health,No,6,Health & Wellness,95.0,360
+2020-01-29,Get Educated: Health Care,155.0,58,0,254,Health,No,58,Health & Wellness,0.0,238
+2019-08-15,"Living Longer, Living Better: Changing the Culture of Aging",82.0,70,0,254,Health,No,70,Social Issues,658.0,95
+2020-02-10,Moral injury In Healthcare,137.0,104,0,254,Health,No,104,Health & Wellness,1320.0,193
+2024-01-04,Real Self Care: How to redefine wellness in the new year with Dr. Pooja Lakshmin,83.0,65,0,254,Health,Yes,65,Health & Wellness,475.0,64
+2019-12-05,Real-life Stories of Illness and Healing,109.0,84,0,254,Health,No,84,Health & Wellness,774.0,132
+2019-05-23,Health Story Collaborative: Healing Stories,103.0,76,0,254,Health,No,76,Health & Wellness,395.0,151
+2023-05-17,Living the good life with your anxiety,231.0,115,34,254,Health,No,81,Health & Wellness,745.0,282
+2021-08-03,"Here & Now Presents Jessamyn Stanley: ""Yoke""",215.0,103,103,254,Here & Now,Yes,0,Health & Wellness,0.0,190
+2021-09-20,Here & Now Presents Trailblazers,66.0,72,50,254,Here & Now,No,22,Social Issues,455.0,91
+2022-10-18,Here & Now Presents: The Midterm Elections,89.0,32,17,254,Here & Now,No,15,Politics,0.0,117
+2019-04-16,Here & Now's Jeremy Hobson In Conversation Erin Lee Carr,32.0,0,0,254,Here & Now,Yes,0,Literature,20.0,53
+2019-03-21,Here & Now's Robin Young and Shaina Taub,111.0,69,0,254,Here & Now,Yes,69,Entertainment,435.0,197
+2022-03-03,Newsmakers: Addressing the legacies of systemic racism in national monuments,135.0,82,63,254,Journalism,No,19,Social Issues,0.0,204
+2022-04-05,Newsmakers: When the police take your money and never give it back,94.0,106,83,254,Journalism,No,23,Social Issues,0.0,133
+2019-09-16,The New York Times' Anthony Tommasini: The Indispensible Composers,81.0,90,0,254,Journalism,Yes,90,Arts & Culture,927.0,115
+2020-01-14,The New Yorker's Adam Davidson: The Passion Economy,119.0,78,0,254,Journalism,Yes,78,Business,1259.0,184
+2023-03-20,The Real Work: The New Yorker's Adam Gopnik on the mystery of mastery,116.0,95,15,254,Journalism,Yes,80,Psychology,980.0,157
+2020-01-28,A Writer's Guide To Surviving Your First Book Deal,122.0,102,0,254,Journalism,No,102,Literature,1348.0,143
+2022-06-06,Dilla Time: Journalist and hip-hop historian Dan Charnas on the life and legacy of a music legend,45.0,38,13,254,Journalism,Yes,25,Arts & Culture,240.0,70
+2023-03-17,Listen Up: NPR Embedded's “Capital Gazette” with Kelly McEvers and Chris Benderev,5.0,171,0,254,Live,Yes,171,Social Issues,15.0,4
+2019-11-01,Falling Out of Time: Osvaldo Golijov and Silkroad,103.0,76,0,254,Live,Yes,76,Literature,998.0,164
+2023-09-14,"""Bear Brook: A True Crime Story"" Live",89.0,52,0,254,Live,No,52,Psychology,800.0,179
+2019-03-14,"Abilities Dance Presents ""Chroma""",35.0,27,0,254,Live,No,27,Entertainment,250.0,61
+2023-03-10,?Con Salsa! Night...Live with José Massó,255.0,217,0,254,Live,Yes,217,Entertainment,1825.0,410
+2023-08-25,"""Mortified"" Live",227.0,192,0,254,Live,No,192,Entertainment,4425.0,472
+2023-12-08,"""Radiolab"" Live: How the Cassette Tape Changed Us",241.0,218,0,254,Live,No,218,Arts & Culture,3460.0,429
+2021-02-25,Anything For Selena Live,291.0,182,0,254,Live,No,182,Arts & Culture,0.0,253
+2023-09-13,Reinterpreting ‘Madama Butterfly’ for the 21st century,64.0,48,0,254,Live,No,48,Social Issues,235.0,109
+2020-01-23,Rocka My Soul: Gospel Music From Church To The Stage,120.0,101,0,254,Live,No,101,Arts & Culture,1281.0,256
+2019-07-18,Summer Salsa Night ft. Clave and Blues,164.0,131,0,254,Live,No,131,Entertainment,1356.0,256
+2019-10-09,"The Allusionist Podcast Live: ""No Title""",177.0,153,0,254,Live,No,153,Social Issues,3760.0,297
+2019-04-12,The Music of Matthew Aucoin featuring AMOC,56.0,49,0,254,Live,Yes,49,Arts & Culture,555.0,101
+2023-06-22,"""Vibe Check"" Live with Sam Sanders, Saeed Jones and Zach Stafford",223.0,192,0,254,Live,Yes,192,Social Issues,3960.0,335
+2019-05-17,Mehmet Ali Sanlikol and Jazz Premiere,133.0,100,0,254,Live,Yes,100,Entertainment,1039.0,202
+2023-04-15,Mega Awesome Super Huge Wicked Fun: Circle Round,233.0,203,0,254,Mega Awesome,No,203,Child Entertainment,7320.0,2737
+2023-04-16,Mega Awesome Super Huge Wicked Fun: Circle Round,239.0,220,0,254,Mega Awesome,No,220,Child Entertainment,7320.0,2737
+2023-04-16,Mega Awesome Super Huge Wicked Fun: Past and the Curious,156.0,127,0,254,Mega Awesome,No,127,Child Entertainment,3650.0,1473
+2023-04-16,Mega Awesome Super Huge Wicked Fun: Smash Boom Best,239.0,224,0,254,Mega Awesome,No,224,Child Entertainment,3650.0,1473
+2023-04-15,Mega Awesome Super Huge Wicked Fun: Tumble,107.0,85,0,254,Mega Awesome,No,85,Child Entertainment,3670.0,1264
+2022-04-23,The Mega Awesome Super Huge Wicked Fun Podcast Playdate,403.0,313,87,254,Mega Awesome,No,226,Child Entertainment,13055.0,1704
+2022-04-24,The Mega Awesome Super Huge Wicked Fun Podcast Playdate,403.0,313,60,254,Mega Awesome,No,253,Child Entertainment,13055.0,1704
+2022-04-26,WBUR Member Night: A Conversation With Meghna Chakrabarti,264.0,163,70,254,Member Night,Yes,93,Science,0.0,367
+2023-11-02,WBUR Member Night: An Evening with Robin Young,333.0,149,35,254,Member Night,Yes,114,Journalism & Media,0.0,464
+2022-08-17,WBUR Member night: Wine down Wednesday with our local daily podcast team,109.0,58,0,254,Member Night,No,58,Entertainment,0.0,158
+2022-08-09,Moth StorySLAM: HAPPY,249.0,220,0,254,Moth StorySLAM,No,220,Entertainment,2220.0,415
+2022-07-12,Moth StorySLAM: NATURE,129.0,113,0,254,Moth StorySLAM,No,113,Entertainment,990.0,126
+2023-10-10,The Moth StorySLAM: ADULTING,243.0,207,0,254,Moth StorySLAM,No,207,Entertainment,2685.0,417
+2022-12-13,The Moth StorySLAM: ANNIVERSARY,244.0,198,0,254,Moth StorySLAM,No,198,Entertainment,2745.0,581
+2023-08-15,The Moth StorySLAM: BACK TO SCHOOL,236.0,203,0,254,Moth StorySLAM,No,203,Entertainment,2625.0,407
+2023-04-11,The Moth StorySLAM: CLEAN,244.0,214,0,254,Moth StorySLAM,No,214,Entertainment,2280.0,376
+2022-09-08,The Moth StorySLAM: Crossroads,203.0,185,0,254,Moth StorySLAM,No,185,Entertainment,1950.0,258
+2023-09-12,The Moth StorySLAM: DRIVE,228.0,234,0,254,Moth StorySLAM,No,234,Entertainment,2385.0,356
+2023-11-14,The Moth StorySLAM: GIVE AND TAKE,244.0,217,0,254,Moth StorySLAM,No,217,Entertainment,2910.0,484
+2023-05-09,The Moth StorySLAM: Gossip,231.0,213,0,254,Moth StorySLAM,No,213,Entertainment,2355.0,405
+2023-12-12,The Moth StorySLAM: HOME,237.0,218,0,254,Moth StorySLAM,No,218,Entertainment,2775.0,664
+2022-11-08,The Moth StorySLAM: LEFTOVERS,247.0,231,0,254,Moth StorySLAM,No,231,Entertainment,2430.0,351
+2023-02-07,The Moth StorySLAM: LOVE HURTS,195.0,202,0,254,Moth StorySLAM,No,202,Entertainment,1905.0,296
+2023-06-13,The Moth StorySLAM: PRIDE,235.0,202,0,254,Moth StorySLAM,No,202,Entertainment,2595.0,548
+2023-03-15,The Moth StorySLAM: STAKES,241.0,213,0,254,Moth StorySLAM,No,213,Entertainment,2550.0,541
+2023-07-11,The Moth StorySLAM: SWEAT,239.0,227,0,254,Moth StorySLAM,No,227,Entertainment,2820.0,474
+2023-01-10,The Moth StorySLAM: VICES,251.0,255,0,254,Moth StorySLAM,No,255,Entertainment,2325.0,428
+2024-01-09,The Moth StorySLAMs: First Impressions,246.0,192,0,254,Moth StorySLAM,No,192,Entertainment,2295.0,376
+2022-04-29,Ones To Watch: Celebrating National Poetry Month with Porsha Olayiwola and youth poets,164.0,94,5,254,Ones to Watch,Yes,89,Entertainment,770.0,320
+2022-05-14,Ones to Watch: Dancer and choreographer Jenny Oliver presents a Closer Look at Belonging,174.0,164,0,254,Ones to Watch,Yes,164,Entertainment,2080.0,255
+2022-02-04,Ones to Watch: FabIola Mendez,392.0,294,248,254,Ones to Watch,Yes,46,Entertainment,165.0,678
+2022-06-16,Ones To Watch: Invisible Imprints,27.0,12,0,254,Ones to Watch,No,12,Entertainment,135.0,71
+2022-02-27,Ones to Watch: Jonah Ellsworth,365.0,230,87,254,Ones to Watch,Yes,143,Entertainment,310.0,705
+2022-06-24,Ones to Watch: Masary Studios,255.0,129,0,254,Ones to Watch,No,129,Entertainment,75.0,458
+2022-04-01,Ones to Watch: Noah y Maurizio,126.0,108,17,254,Ones to Watch,Yes,91,Entertainment,1520.0,300
+2022-03-24,Ones to Watch: Veronica Robles,120.0,135,39,254,Ones to Watch,Yes,96,Entertainment,1510.0,237
+2019-11-12,"""Fellow Travelers"" The Opera; Covert Romance, Politics and Power",37.0,36,0,254,Opera,No,36,Literature,230.0,52
+2019-03-07,Othello in the Seraglio: A Coffeehouse Opera,97.0,86,0,254,Opera,No,86,Entertainment,1168.0,153
+2019-05-04,The Handmaid's Aria: How An Iconic Novel Became An Opera,241.0,202,0,254,Opera,No,202,Literature,9810.0,436
+2022-11-16,Phenomenal Women: An evening with tap dancer and choreographer Ayodele Casel,118.0,92,12,254,Phenomenal Women,Yes,80,Arts & Culture,1200.0,252
+2022-10-14,"Phenomenal Women: How Deborah Torres turned down ""Shark Tank"" and changed the vegan fried chicken market",162.0,69,0,254,Phenomenal Women,Yes,69,Business,140.0,221
+2022-04-11,Phenomenal Women: Katie Rae,106.0,58,5,254,Phenomenal Women,Yes,53,Business,180.0,180
+2022-11-15,Phenomenal Women: Newsroom confidential with journalists Margaret Sullivan and Eileen McNamara,94.0,66,19,254,Phenomenal Women,Yes,47,Journalism & Media,595.0,283
+2022-05-16,Phenomenal Women: Pardis Sabeti and Aoife Brennan,12.0,7,7,254,Phenomenal Women,Yes,0,Science,135.0,24
+2023-09-09,Poet Robert Pinsky presents “Proverbs of Limbo”,250.0,230,10,254,Phenomenal Women,Yes,220,Entertainment,3275.0,801
+2022-06-21,Youth Takeover: The missing student voices on gun control and school safety,10.0,9,9,254,Politics,No,0,Social Issues,0.0,9
+2019-08-08,David Byrne,131.0,231,0,254,Politics,Yes,231,Arts & Culture,4587.5,248
+2021-09-09,2021 Boston Mayoral Debate,1140.0,1441,1441,254,Politics,No,0,Politics,0.0,1010
+2022-08-10,2022 Mass. attorney general primary debate,238.0,237,177,254,Politics,No,60,Politics,0.0,215
+2022-08-16,2022 Mass. lieutenant govenor primary debate: Democrats,93.0,161,143,254,Politics,No,18,Politics,0.0,98
+2022-08-15,2022 Mass. lieutenant govenor primary debate: Republicans,55.0,88,59,254,Politics,No,29,Politics,0.0,61
+2019-12-12,Decorating The People's House,96.0,63,0,254,Politics,No,63,Politics,828.0,186
+2023-09-26,Democracy Awakening: historian Heather Cox Richardson on the state of America,365.0,386,158,254,Politics,Yes,228,Politics,10670.0,503
+2023-02-21,Democracy under threat: Former CNN chief media correspondent Brian Stelter on the news industry’s future,121.0,99,31,254,Politics,Yes,68,Journalism & Media,730.0,108
+2023-10-04,Differ We Must: Morning Edition host Steve Inskeep on Lincoln's success in a divided America,91.0,69,0,254,Politics,Yes,69,Politics,1300.0,127
+2021-05-06,President Biden's Earth Day Summit: What It Means For Massachusetss,270.0,87,0,254,Politics,No,87,Climate,0.0,237
+2022-02-24,The Great Wager: President Nixon's 1972 risky visit to China and the art it inspired,216.0,109,53,254,Politics,No,56,Politics,15.0,360
+2023-10-03,The Last Politician: The Atlantic's Franklin Foer on Joe Biden’s White House,54.0,49,0,254,Politics,Yes,49,Politics,760.0,92
+2020-02-13,WBUR and The Washington Post Present: Unprecented Presidents,88.0,65,0,254,Politics,No,65,Politics,1064.0,162
+2019-11-05,A Year Ahead: The 2020 Presidential Campaign,189.0,111,0,254,Politics,No,111,Politics,0.0,362
+2022-10-12,Confidence Man: New York Times reporter Maggie Haberman’s newsmaking book on President Donald Trump,402.0,292,114,254,Politics,No,178,Politics,2905.0,413
+2019-10-22,Radio Boston Live: City Council Debate,105.0,123,0,254,Radio Boston,No,123,Politics,0.0,131
+2023-11-09,Freakonomics Radio Live,241.0,209,0,254,Radio Boston,No,209,Psychology,4012.5,435
+2019-04-05,Radio Boston Live,26.0,15,0,254,Radio Boston,No,15,Journalism & Media,0.0,58
+2019-06-05,Radio Boston Live: The Future of Food,91.0,50,0,254,Radio Boston,No,50,Food & Cuisine,0.0,124
+2023-08-02,Radio Boston presents: Comics culture,122.0,73,0,254,Radio Boston,No,73,Literature,475.0,268
+2022-09-07,Remarkable Science: How to prepare for the fall season of infectious diseases,23.0,15,15,254,Science,No,0,Sceince,0.0,15
+2022-12-07,Remarkable Science: Living to 100 with Blue Zones author Dan Buettner,156.0,110,38,254,Science,Yes,72,Sceince,1300.0,194
+2022-05-13,Remarkable Science: The future of AI and robots,126.0,59,34,254,Science,No,25,Sceince,0.0,196
+2022-12-14,Remarkable Science: Understanding lifespan and why aging might be reversible with Dr. David Sinclair,181.0,129,55,254,Science,Yes,74,Sceince,1575.0,208
+2022-06-15,Science Friday and WBUR CitySpace Present Cephalopod Movie Night,195.0,155,41,254,Science,No,114,Sceince,1282.5,384
+2023-04-18,Science Friday Climate Fair,175.0,66,0,254,Science,No,66,Climate,40.0,449
+2019-06-24,Science Friday Presents: Cephalopod Movie Night,259.0,201,0,254,Science,No,201,Science,2085.0,522
+2020-01-16,The Create Curiosity Fair Wirh Science Friday,151.0,93,0,254,Science,No,93,Science,933.0,362
+2019-11-06,"""Lenox Street"" The Film Screening",142.0,75,0,254,Screening,No,75,Arts & Culture,0.0,262
+2022-09-21,"""Stranger at the Gate"" documentary screening and conversation",169.0,120,0,254,Screening,No,120,Social Issues,1280.0,199
+2022-03-18,"""Undercurrent"" documentary screening and conversation with director Erin Lee Carr",172.0,64,0,254,Screening,Yes,64,Social Issues,0.0,370
+2023-01-27,Jack the Whipper 7pm,3430.0,1794,1596,254,Screening,No,198,Entertainment,26065.0,2772
+2023-01-27,Jack the Whipper 9pm,217.0,188,0,254,Screening,No,188,Entertainment,26065.0,2772
+2019-03-22,Joseph Pulitzer Screening And Conversation,131.0,77,0,254,Screening,Yes,77,Journalism & Media,0.0,388
+2019-03-06,Lobster War Screening And Conversation,114.0,85,0,254,Screening,No,85,Climate,814.5,183
+2019-07-16,Mike Wallace Is Here Screening,75.0,61,0,254,Screening,Yes,61,Journalism & Media,616.0,117
+2022-09-27,No One Is Coming To Save Us,240.0,131,49,254,Screening,No,82,Social Issues,0.0,299
+2021-01-29,"Science on Screen: ""Beasts of the Southern Wild""",118.0,70,0,254,Screening,No,70,Climate,0.0,107
+2022-12-12,Screaming on the Inside: New York Times reporter Jessica Grose on the unsustainability of American motherhood,224.0,169,40,254,Screening,Yes,129,Social Issues,2085.0,298
+2019-06-11,Sonic Sea Screening And Conversation,97.0,57,0,254,Screening,No,57,Climate,606.0,189
+2023-01-04,This Place Rules: HBO Original screening and conversation with Andrew Callaghan on the Jan. 6 insurrection,279.0,176,11,254,Screening,Yes,165,Politics,0.0,541
+2022-06-29,Tracy Flick Can’t Win: A conversation with Tom Perrotta on his new novel & screening of “Election”,67.0,48,0,254,Screening,Yes,48,Literature,850.0,121
+2019-03-20,Diversity in Podcasting: Women in Their Own Words,86.0,48,0,254,Social,No,48,Social Issues,0.0,265
+2019-06-13,Diversity on the Runway,113.0,114,0,254,Social,No,114,Social Issues,790.0,199
+2023-04-21,Choose Your Own Disaster,124.0,70,0,254,Social,No,70,Climate,462.5,251
+2022-04-04,How to be Peferct with the Good Place creator Michael Schur,309.0,379,213,254,Social,Yes,166,Literature,3290.0,510
+2020-08-12,"Only A Game Presents: Sports, Racism and the Myth of Meritocracy",399.0,207,0,254,Social,No,207,Social Issues,0.0,346
+2020-01-30,Child Care And The Future of The American Dream,236.0,102,0,254,Social,No,102,Social Issues,0.0,912
+2019-04-09,Ending Chronic Homelessness,284.0,143,0,254,Social,No,143,Social Issues,180.0,502
+2021-03-23,Leveling the Playing Field In STEM,540.0,296,0,254,Social,No,296,Social Issues,0.0,462
+2019-09-17,Mike Schur / How To Be Good,235.0,233,0,254,Social,Yes,233,Literature,6045.0,386
+2019-04-23,All Things Greek with Mary Norris,59.0,53,0,254,Social,Yes,53,Arts & Culture,808.0,117
+2020-01-22,"Andrea Bernstein: ""American Oligarchs""",81.0,50,0,254,Social,Yes,50,Politics,853.0,119
+2023-05-10,Cognoscenti presents: Redefining motherhood for the 21st century,216.0,175,29,254,Social,No,146,Social Issues,1865.0,234
+2022-07-28,Mercy: Bill Littlefield,62.0,35,17,254,Social,Yes,18,Literature,255.0,53
+2023-06-21,Rich Country/Poor Citizens: Authors Matthew Desmond and Andre Dubus III on American poverty,348.0,291,79,254,Social,Yes,212,Social Issues,2940.0,397
+2020-01-27,Sexual Citizens,80.0,60,0,254,Social,No,60,Social Issues,792.0,256
+2019-03-26,"Single Payer: The Pros, The Cons and What's Possible",55.0,37,0,254,Social,No,37,Health & Wellness,230.0,76
+2019-03-11,Tackling Gun Violence,221.0,186,0,254,Social,No,186,Politics,1750.0,375
+2019-04-11,The Challenge To Responsibility: A Call To Conscience,93.0,79,0,254,Social,No,79,History,1540.0,95
+2023-06-14,The Lehman Legacy: The true cost of capitalism and racism,407.0,162,95,254,Social,No,67,History,0.0,711
+2019-11-07,The Loop Lab: Celebrating Equity in Video and Pocasting,58.0,65,0,254,Social,No,65,Journalism & Media,440.0,71
+2020-01-18,The Lasting Appeal Little Women,109.0,88,0,254,Social,No,88,Literature,1076.5,206
+2023-10-19,The Makers 2023: A celebration honoring emerging artists of color in Boston,289.0,173,0,254,Social,No,173,Arts & Culture,0.0,399
+2019-07-23,Who Should Sing Ol' Man River? Portraying Race Through Musical Theatre,205.0,137,0,254,Social,No,137,Social Issues,0.0,460
+2022-07-19,Youth Takeover: Arts and Culture,32.0,6,0,254,Social,No,6,Arts & Culture,0.0,45
+2022-02-18,"Live in concert: Heesu, WBUR's Massachusetts favorite of the Tiny Desk",271.0,191,73,254,Sound On,No,118,Entertainment,180.0,580
+2023-02-16,Sound On Global: Acoustic Nomads presents “The Abominable Stringband Vol. 2”,89.0,71,0,254,Sound On,No,71,Entertainment,645.0,124
+2023-04-02,"Sound On Global: Mehmet Ali Sanl?kol with George Lernis and A Far Cry present ""A Gentleman of Istanbul”",161.0,151,0,254,Sound On,Yes,151,Entertainment,1770.0,227
+2023-04-29,Sound On Global: Palaver Strings,70.0,69,0,254,Sound On,No,69,Entertainment,800.0,87
+2023-03-12,Sound On Global: Rasa String Quartet explores the intersection of classical and folk traditions,58.0,58,0,254,Sound On,Yes,58,Entertainment,505.0,73
+2023-07-27,"Sound On Music Festival: An evening of jazz, blues and the groove with Ali McGuirk and friends",146.0,111,0,254,Sound On,Yes,111,Entertainment,1690.0,229
+2023-08-24,Sound On Music Festival: An evening with electro-pop singer Eph See and friends,165.0,78,0,254,Sound On,Yes,78,Entertainment,295.0,274
+2023-06-23,Sound On Music Festival: An evening with R&B and neo-soul singer Miranda Rae and friends,107.0,96,0,254,Sound On,Yes,96,Entertainment,950.0,138
+2023-05-12,Sound On Music Festival: WBUR’s Mass. Favorite of the NPR Tiny Desk Contest Lee Zangari and friends,108.0,103,0,254,Sound On,Yes,103,Entertainment,1180.0,170
+2021-05-27,Sound On: $ean Wire In Concert,9.0,6,0,254,Sound On,No,6,Entertainment,0.0,8
+2022-09-29,Sound On: Lady Pills live in concert,43.0,31,0,254,Sound On,No,31,Entertainment,125.0,64
+2022-05-12,Sound On: Really From,135.0,64,0,254,Sound On,No,64,Entertainment,470.0,261
+2021-06-24,Sound On: Really From In Concert,34.0,18,0,254,Sound On,No,18,Entertainment,0.0,29
+2022-06-09,Sound On: Squirrel Flower,107.0,92,0,254,Sound On,No,92,Entertainment,850.0,174
+2021-10-05,Tell Me More! Angie Thomas and Tomi Adeyemi,29.0,27,27,254,Tell Me More,Yes,0,Journalism & Media,125.0,27
+2021-09-13,Tell Me More! Elizabeth Kolbert and Helen Macdonald,45.0,40,40,254,Tell Me More,Yes,0,Climate,165.0,46
+2022-02-15,"Tell Me More! Jenne Desmond Harris, Meredith Goldsein, Margo Howard",248.0,131,111,254,Tell Me More,Yes,20,Health & Wellness,205.0,372
+2021-11-01,"Tell Me More! Lisa Napoli, Susan Stamberg, Linda Wertheimer",129.0,133,133,254,Tell Me More,Yes,0,Journalism & Media,347.5,133
+2021-12-01,Tell Me More! Misty Copeland and The Ballerinas of the 152nd Street,237.0,247,133,254,Tell Me More,Yes,114,Arts & Culture,1875.0,290
+2020-03-06,Crossword Show,260.0,204,0,254,The Crossword Show,No,204,Entertainment,3778.0,454
+2022-07-16,The Crossword Show,184.0,189,0,254,The Crossword Show,No,189,Entertainment,3585.0,716
+2019-06-14,The Crossword Show,194.0,135,0,254,The Crossword Show,No,135,Entertainment,3585.0,716
+2023-10-20,The Crossword Show with Zach Sherwin,235.0,221,0,254,The Crossword Show,Yes,221,Entertainment,3750.0,399
+2021-09-14,This Changes Everything: Higher Education,56.0,42,27,254,This Changes Everything,No,15,Education,290.0,66
+2022-01-19,This Changes Everything: How newsrooms are shifting strategies to better serve communities,96.0,56,41,254,This Changes Everything,No,15,Journalism & Media,0.0,106
+2021-12-06,This Changes Everything: How Will Arts and Culture,107.0,70,56,254,This Changes Everything,No,14,Arts & Culture,495.0,136
+2021-10-14,This Changes Everything: Supreme Court,144.0,82,82,254,This Changes Everything,No,0,Politics,507.5,147
+2021-06-16,This Changes Everything: The Office Edition,106.0,52,0,254,This Changes Everything,No,52,Business,0.0,89
+2020-04-21,Virtual Town Hall: After the Surge,498.0,353,0,254,Town Hall,No,353,Health & Wellness,0.0,453
+2020-05-12,Virtual Town Hall: Climate Change and Pandemics,400.0,260,0,254,Town Hall,No,260,Environment,0.0,515
+2020-05-26,Virtual Town Hall: Misinformation,224.0,112,0,254,Town Hall,No,112,Politics,0.0,195
+2020-04-28,Virtual Town Hall: Prison and Homeless Populations,477.0,313,0,254,Town Hall,No,313,Social Issues,0.0,440
+2020-05-05,Virtual Town Hall: Societal Costs,247.0,143,0,254,Town Hall,No,143,Social Issues,0.0,229
+2020-05-19,Virtual Town Hall: Students and Families,373.0,157,0,254,Town Hall,No,157,Social Issues,0.0,346
+2020-04-14,Virtual Town Hall: The Surge,772.0,343,0,254,Town Hall,No,343,Health & Wellness,0.0,858
+2021-10-21,WBUR Town Hall: Annissa Essaibi George,391.0,603,552,254,Town Hall,Yes,51,Politics,0.0,1019
+2021-03-02,WBUR Town Hall: Ethics and the Vaccine,103.0,60,0,254,Town Hall,No,60,Social Issues,0.0,105
+2021-03-09,WBUR Town Hall: Fact Up! Your Vaccine Questions Answered,62.0,34,0,254,Town Hall,No,34,Health & Wellness,0.0,57
+2021-10-18,WBUR Town Hall: Michelle Wu,414.0,533,466,254,Town Hall,Yes,67,Politics,0.0,615
+2020-11-17,WBUR Town Hall: Now What? The Impact of the 2020 Election,501.0,369,0,254,Town Hall,No,369,Politics,0.0,427
+2021-02-23,WBUR Town Hall: The Success and Challenges of Vaccine Distribution,120.0,66,0,254,Town Hall,No,66,Politics,0.0,126
+2021-02-16,WBUR Town Hall: The Vaccine Is Here,124.0,65,0,254,Town Hall,No,65,Health & Wellness,0.0,119
+2022-03-08,WBUR Town Hall: Understanding the Ukraine Crisis,367.0,192,170,254,Town Hall,No,22,Politics,0.0,443
+2019-05-02,Tribute to Mary Oliver,245.0,167,0,254,Tribute,Yes,167,Literature,1960.0,423
